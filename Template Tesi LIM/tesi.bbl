@@ -1,0 +1,30 @@
+\begin{thebibliography}{1}
+
+\bibitem{hamalainen2019web}
+W.~H\"am\"al\"ainen.
+\newblock Scientific writing for computer science students.
+\newblock \url{http://www.cs.joensuu.fi/\~whamalai/teaching.html}.
+\newblock Accessed: 2019-04-10.
+
+\bibitem{strunk1999style}
+William Strunk.
+\newblock {\em Elements of Style}.
+\newblock Penguin, 2007.
+
+\bibitem{mittelbach2004latex}
+Frank Mittelbach, Michel Goossens, Johannes Braams, David Carlisle, and Chris
+  Rowley.
+\newblock {\em The LaTeX Companion}.
+\newblock Addison-Wesley, Boston, second edition, 2004.
+
+\bibitem{lazar2017methods}
+Jonathan Lazar, Jijuan~Heidi Feng, and Harry Hochheiser.
+\newblock {\em Research methods in {Human-Computer Interaction}}.
+\newblock Morgan Kaufmann, Cambridge, second edition, 2017.
+
+\bibitem{haus2005multi}
+Goffredo Haus and Maurizio Longari.
+\newblock A multi-layered, time-based music description approach based on xml.
+\newblock {\em Computer Music Journal}, 29(1):70--85, 2005.
+
+\end{thebibliography}
