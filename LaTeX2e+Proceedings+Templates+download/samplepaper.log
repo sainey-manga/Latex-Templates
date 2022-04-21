@@ -1,0 +1,516 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.11.18)  22 FEB 2022 19:18
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**samplepaper.tex
+(./samplepaper.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> (./llncs.cls
+Document Class: llncs 2022/01/12 v2.21 
+ LaTeX document class for Lecture Notes in Computer Science
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\c@figure=\count185
+\c@table=\count186
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count187
+\mult@box=\box47
+\multicol@leftmargin=\dimen139
+\c@unbalance=\count188
+\c@collectmore=\count189
+\doublecol@number=\count190
+\multicoltolerance=\count191
+\multicolpretolerance=\count192
+\full@width=\dimen140
+\page@free=\dimen141
+\premulticols=\dimen142
+\postmulticols=\dimen143
+\multicolsep=\skip49
+\multicolbaselineskip=\skip50
+\partial@page=\box48
+\last@line=\box49
+\maxbalancingoverflow=\dimen144
+\mult@rightbox=\box50
+\mult@grightbox=\box51
+\mult@gfirstbox=\box52
+\mult@firstbox=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\c@minrows=\count193
+\c@columnbadness=\count194
+\c@finalcolumnbadness=\count195
+\last@try=\dimen145
+\multicolovershoot=\dimen146
+\multicolundershoot=\dimen147
+\mult@nat@firstbox=\box91
+\colbreak@box=\box92
+\mc@col@check@num=\count196
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/oberdiek/aliascnt.sty
+Package: aliascnt 2018/09/07 v1.5 Alias counters (HO)
+)
+\c@chapter=\count197
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 362.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 363.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 364.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 365.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 366.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 367.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 368.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 369.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 370.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 371.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 372.
+\tocchpnum=\dimen148
+\tocsecnum=\dimen149
+\tocsectotal=\dimen150
+\tocsubsecnum=\dimen151
+\tocsubsectotal=\dimen152
+\tocsubsubsecnum=\dimen153
+\tocsubsubsectotal=\dimen154
+\tocparanum=\dimen155
+\tocparatotal=\dimen156
+\tocsubparanum=\dimen157
+\@tempcntc=\count198
+\fnindent=\dimen158
+\c@@inst=\count199
+\c@@auth=\count266
+\c@auco=\count267
+\instindent=\dimen159
+\authrun=\box93
+\authorrunning=\toks15
+\tocauthor=\toks16
+\titrun=\box94
+\titlerunning=\toks17
+\toctitle=\toks18
+\c@theorem=\count268
+\c@case=\count269
+\c@conjecture=\count270
+\c@corollary=\count271
+\c@definition=\count272
+\c@example=\count273
+\c@exercise=\count274
+\c@lemma=\count275
+\c@note=\count276
+\c@problem=\count277
+\c@property=\count278
+\c@proposition=\count279
+\c@question=\count280
+\c@solution=\count281
+\c@remark=\count282
+\headlineindent=\dimen160
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen161
+\Gin@req@width=\dimen162
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen163
+\captionmargin@=\dimen164
+\captionwidth=\dimen165
+\caption@tempdima=\dimen166
+\caption@indent=\dimen167
+\caption@parindent=\dimen168
+\caption@hangindent=\dimen169
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+Package caption Info: \@makecaption = \long macro:#1#2->\small \vskip \abovecap
+tionskip \sbox \@tempboxa {{\bfseries #1.} #2}\ifdim \wd \@tempboxa >\hsize {\b
+fseries #1.} #2\par \else \global \@minipagefalse \hb@xt@ \hsize {\hfil \box \@
+tempboxa \hfil }\fi \vskip \belowcaptionskip  on input line 1139.
+)
+
+Package caption Warning: Unknown document class (or package),
+(caption)                standard defaults will be used.
+See the caption package documentation for explanation.
+
+\c@caption@flags=\count283
+\c@continuedfloat=\count284
+)
+\c@subfigure=\count285
+\c@subtable=\count286
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count287
+\lst@gtempboxa=\box95
+\lst@token=\toks20
+\lst@length=\count288
+\lst@currlwidth=\dimen170
+\lst@column=\count289
+\lst@pos=\count290
+\lst@lostspace=\dimen171
+\lst@width=\dimen172
+\lst@newlines=\count291
+\lst@lineno=\count292
+\lst@maxwidth=\dimen173
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count293
+\lst@skipnumbers=\count294
+\lst@framebox=\box96
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count295
+\l__pdf_internal_box=\box97
+)
+(./samplepaper.aux
+
+LaTeX Warning: Label `fig:dataset' multiply defined.
+
+
+LaTeX Warning: Label `fig:dataset' multiply defined.
+
+
+LaTeX Warning: Label `fig:dataset' multiply defined.
+
+
+LaTeX Warning: Label `ref_article1' multiply defined.
+
+
+LaTeX Warning: Label `ref_article1' multiply defined.
+
+)
+\openout1 = `samplepaper.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+ (/usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count296
+\scratchdimen=\dimen174
+\scratchbox=\box98
+\nofMPsegments=\count297
+\nofMParguments=\count298
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count299
+\MPscratchDim=\dimen175
+\MPnumerator=\count300
+\makeMPintoPDFobject=\count301
+\everyMPtoPDFconversion=\toks22
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count302
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 40.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 40.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 40.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 4
+0.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 40.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 40.
+
+Overfull \hbox (118.07079pt too wide) in paragraph at lines 54--68
+[][] 
+ []
+
+[1
+
+{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+<model achitect.png, id=15, 482.80376pt x 185.69376pt>
+File: model achitect.png Graphic file (type png)
+<use model achitect.png>
+Package pdftex.def Info: model achitect.png  used on input line 83.
+(pdftex.def)             Requested size: 386.24353pt x 148.55519pt.
+
+Overfull \hbox (39.12pt too wide) in paragraph at lines 83--86
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--89
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
+
+ []
+
+[2]
+<hist.png, id=20, 220.825pt x 188.705pt>
+File: hist.png Graphic file (type png)
+<use hist.png>
+Package pdftex.def Info: hist.png  used on input line 103.
+(pdftex.def)             Requested size: 173.56177pt x 148.32378pt.
+<hist1.png, id=21, 215.80624pt x 199.74625pt>
+File: hist1.png Graphic file (type png)
+<use hist1.png>
+Package pdftex.def Info: hist1.png  used on input line 109.
+(pdftex.def)             Requested size: 173.56177pt x 160.65062pt.
+
+Overfull \hbox (2.05505pt too wide) in paragraph at lines 101--113
+[]$[]$ $[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--116
+
+ []
+
+<lensen.png, id=22, 354.32375pt x 203.76125pt>
+File: lensen.png Graphic file (type png)
+<use lensen.png>
+Package pdftex.def Info: lensen.png  used on input line 121.
+(pdftex.def)             Requested size: 354.32288pt x 203.76074pt.
+
+Overfull \hbox (7.19934pt too wide) in paragraph at lines 121--123
+ [][] 
+ []
+
+<avesenlen.png, id=23, 469.755pt x 121.45375pt>
+File: avesenlen.png Graphic file (type png)
+<use avesenlen.png>
+Package pdftex.def Info: avesenlen.png  used on input line 129.
+(pdftex.def)             Requested size: 375.80452pt x 97.1631pt.
+
+Overfull \hbox (28.68098pt too wide) in paragraph at lines 129--131
+ [][] 
+ []
+
+<hypsenlen.png, id=24, 422.57875pt x 232.87pt>
+File: hypsenlen.png Graphic file (type png)
+<use hypsenlen.png>
+Package pdftex.def Info: hypsenlen.png  used on input line 137.
+(pdftex.def)             Requested size: 338.06345pt x 186.29623pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--143
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--143
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--143
+
+ []
+
+[3 <./model achitect.png>] [4 <./hist.png> <./hist1.png>] [5 <./lensen.png> <./
+avesenlen.png>]
+
+! Package inputenc Error: Unicode character α (U+03B1)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.153 ...layer. The results from these generate α
+                                                   which is the sub-phrase i...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character β (U+03B2)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.153 ...with the hypotheses and vice versa for β
+                                                  . The second Compare step ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+[6 <./hypsenlen.png>]
+Overfull \hbox (60.54521pt too wide) in paragraph at lines 164--175
+ [] 
+ []
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.182 \begin
+            {figure}[ht]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<matrix1.png, id=43, 448.67625pt x 198.7425pt>
+File: matrix1.png Graphic file (type png)
+<use matrix1.png>
+Package pdftex.def Info: matrix1.png  used on input line 188.
+(pdftex.def)             Requested size: 156.20715pt x 69.19093pt.
+
+Overfull \hbox (52.06905pt too wide) in paragraph at lines 188--188
+ [][] 
+ []
+
+<matrix2.png, id=44, 417.56pt x 172.645pt>
+File: matrix2.png Graphic file (type png)
+<use matrix2.png>
+Package pdftex.def Info: matrix2.png  used on input line 195.
+(pdftex.def)             Requested size: 156.20715pt x 64.58627pt.
+
+Overfull \hbox (52.06905pt too wide) in paragraph at lines 195--195
+ [][] 
+ []
+
+<matrix3.png, id=45, 420.57124pt x 174.6525pt>
+File: matrix3.png Graphic file (type png)
+<use matrix3.png>
+Package pdftex.def Info: matrix3.png  used on input line 202.
+(pdftex.def)             Requested size: 187.4489pt x 77.84402pt.
+
+Overfull \hbox (83.31079pt too wide) in paragraph at lines 202--202
+ [][] 
+ []
+
+[7] [8 <./matrix1.png> <./matrix2.png> <./matrix3.png>] (./samplepaper.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4615 strings out of 478994
+ 71359 string characters out of 5858183
+ 558451 words of memory out of 5000000
+ 22070 multiletter control sequences out of 15000+600000
+ 416507 words of font info for 56 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 69i,9n,77p,1557b,457s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<
+/usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></u
+sr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></u
+sr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx0900.pfb></usr
+/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/l
+ocal/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/loc
+al/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local
+/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/t
+exlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/tex
+live/2021/texmf-dist/fonts/type1/public/cm-super/sftt0900.pfb>
+Output written on samplepaper.pdf (8 pages, 290568 bytes).
+PDF statistics:
+ 90 PDF objects out of 1000 (max. 8388607)
+ 52 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+
